@@ -2,7 +2,7 @@ TextEdit
 ========
 
 This is an application that allows the user to save the text currently in the UITextView object to a file, 
-and also to load the contents of a text file into the UITextView object..
+and also to load the contents of a text file into the UITextView object.
 
 Functionality:
 1. Open Button: Causes the user to be prompted for the name of a text file from which to set the UITextView contents.
